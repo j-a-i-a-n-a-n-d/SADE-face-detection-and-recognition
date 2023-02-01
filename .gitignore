@@ -7,3 +7,4 @@ haarcascade_frontalface_alt.xml
 haarcascade_frontalface_default.xml
 assets/
 StudentDetails/StudentDetails.csv
+TrainingImageLabel/Trainner.yml
