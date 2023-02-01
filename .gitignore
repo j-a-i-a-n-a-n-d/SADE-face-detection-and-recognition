@@ -5,3 +5,5 @@ images/
 haarcascade_eye_tree_eyeglasses.xml
 haarcascade_frontalface_alt.xml
 haarcascade_frontalface_default.xml
+assets/
+StudentDetails/StudentDetails.csv
